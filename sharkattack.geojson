@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.06319, 18.83930]  // Example coordinates for incident location
+        "coordinates": [-97.06319, 18.83930]  
       },
       "properties": {
         "name": "Playa del Carmen, Mexico",
@@ -18,7 +18,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [153.43088, -27.99530]  // Example coordinates for incident location
+        "coordinates": [153.43088, -27.99530]  
       },
       "properties": {
         "name": "Gold Coast, Australia",
@@ -31,7 +31,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-156.68246, 20.87833]  // Example coordinates for incident location
+        "coordinates": [-156.68246, 20.87833]  
       },
       "properties": {
         "name": "Maui, Hawaii, USA",
@@ -44,7 +44,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [115.1646, -33.9570]  // Example coordinates for incident location
+        "coordinates": [115.1646, -33.9570]  
       },
       "properties": {
         "name": "Perth, Australia",
@@ -57,15 +57,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [115.8575, -31.9505]  // Example coordinates for incident location
+        "coordinates": [115.8575, -31.9505]  
       },
       "properties": {
         "name": "Rottnest Island, Australia",
         "date": "2023-12-05",
         "fatalities": 1,
-        "description": "A swimmer was fatally attacked by a shark near the island's shores."
-      }
-    },
-
-  ]
-}
+        "description": "A swimmer was fatally attack
