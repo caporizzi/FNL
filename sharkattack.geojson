@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.06319, 18.83930]  // Example coordinates for incident location
+      },
+      "properties": {
+        "name": "Playa del Carmen, Mexico",
+        "date": "2023-07-15",
+        "fatalities": 1,
+        "description": "A swimmer was attacked by a shark while swimming near the beach."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.43088, -27.99530]  // Example coordinates for incident location
+      },
+      "properties": {
+        "name": "Gold Coast, Australia",
+        "date": "2023-09-02",
+        "fatalities": 1,
+        "description": "A surfer was fatally wounded in a shark attack while surfing in the early morning."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-156.68246, 20.87833]  // Example coordinates for incident location
+      },
+      "properties": {
+        "name": "Maui, Hawaii, USA",
+        "date": "2023-10-10",
+        "fatalities": 1,
+        "description": "A snorkeler was attacked by a shark in shallow waters off the coast."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.1646, -33.9570]  // Example coordinates for incident location
+      },
+      "properties": {
+        "name": "Perth, Australia",
+        "date": "2023-11-21",
+        "fatalities": 1,
+        "description": "A diver was attacked by a shark during a recreational dive."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.8575, -31.9505]  // Example coordinates for incident location
+      },
+      "properties": {
+        "name": "Rottnest Island, Australia",
+        "date": "2023-12-05",
+        "fatalities": 1,
+        "description": "A swimmer was fatally attacked by a shark near the island's shores."
+      }
+    },
+
+  ]
+}
