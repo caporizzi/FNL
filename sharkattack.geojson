@@ -1,70 +1,110 @@
 {
     "type": "FeatureCollection",
     "features": [
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-97.06319, 18.83930]
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.06319, 18.83930]
+            },
+            "properties": {
+                "name": "Playa del Carmen, Mexico",
+                "date": "2023-07-15",
+                "fatalities": 1,
+                "description": "A swimmer was attacked by a shark while swimming near the beach."
+            }
         },
-        "properties": {
-            "name": "Playa del Carmen, Mexico",
-            "date": "2023-07-15",
-            "fatalities": 1,
-            "description": "A swimmer was attacked by a shark while swimming near the beach."
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [153.43088, -27.99530]
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.43088, -27.99530]
+            },
+            "properties": {
+                "name": "Gold Coast, Australia",
+                "date": "2023-09-02",
+                "fatalities": 1,
+                "description": "A surfer was fatally wounded in a shark attack while surfing in the early morning."
+            }
         },
-        "properties": {
-            "name": "Gold Coast, Australia",
-            "date": "2023-09-02",
-            "fatalities": 1,
-            "description": "A surfer was fatally wounded in a shark attack while surfing in the early morning."
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-156.68246, 20.87833]
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-156.68246, 20.87833]
+            },
+            "properties": {
+                "name": "Maui, Hawaii, USA",
+                "date": "2023-10-10",
+                "fatalities": 1,
+                "description": "A snorkeler was attacked by a shark in shallow waters off the coast."
+            }
         },
-        "properties": {
-            "name": "Maui, Hawaii, USA",
-            "date": "2023-10-10",
-            "fatalities": 1,
-            "description": "A snorkeler was attacked by a shark in shallow waters off the coast."
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [115.1646, -33.9570]
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [115.1646, -33.9570]
+            },
+            "properties": {
+                "name": "Perth, Australia",
+                "date": "2023-11-21",
+                "fatalities": 1,
+                "description": "A diver was attacked by a shark during a recreational dive."
+            }
         },
-        "properties": {
-            "name": "Perth, Australia",
-            "date": "2023-11-21",
-            "fatalities": 1,
-            "description": "A diver was attacked by a shark during a recreational dive."
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [115.8575, -31.9505]
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [115.8575, -31.9505]
+            },
+            "properties": {
+                "name": "Rottnest Island, Australia",
+                "date": "2023-12-05",
+                "fatalities": 1,
+                "description": "A swimmer was fatally attacked by a shark near the shores of Rottnest Island."
+            }
         },
-        "properties": {
-            "name": "Rottnest Island, Australia",
-            "date": "2023-12-05",
-            "fatalities": 1,
-            "description": "A swimmer was fatally attack
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [150.2586, -35.2809]
+            },
+            "properties": {
+                "name": "Sydney, Australia",
+                "date": "2024-01-15",
+                "fatalities": 1,
+                "description": "A spearfisher was fatally mauled by a shark while diving for seafood near Sydney's coastline."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.4241, -33.9258]
+            },
+            "properties": {
+                "name": "Cape Town, South Africa",
+                "date": "2023-08-07",
+                "fatalities": 1,
+                "description": "A swimmer was fatally attacked by a shark near Cape Town's popular beachfront."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.1336, -8.8368]
+            },
+            "properties": {
+                "name": "Skeleton Coast, Namibia",
+                "date": "2023-06-15",
+                "fatalities": 1,
+                "description": "A fisherman was fatally attacked by a shark while retrieving his catch along Skeleton Coast."
+            }
         }
-    }
+        
     ]
 }
